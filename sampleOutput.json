@@ -1,0 +1,85 @@
+
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+        "publishedAt": "2020-04-27T11:41:47Z",
+        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      },
+      {
+        "source": {
+          "id": "espn-cric-info",
+          "name": "ESPN Cric Info"
+        },
+        "author": null,
+        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+        "publishedAt": "2020-03-30T15:26:05Z",
+        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      },
+      {
+        "source": {
+          "id": "newsweek",
+          "name": "Newsweek"
+        },
+        "author": "Kaitlin Lewis",
+        "title": "Transgender Student Questions Glenn Youngkin on Restrooms",
+        "description": "The Virginia governor appeared at a CNN town hall Thursday to discuss his state's proposed educational policies, including those for LGBT students.",
+        "url": "https://www.newsweek.com/transgender-student-questions-glenn-youngkin-restrooms-1786812",
+        "urlToImage": "https://d.newsweek.com/en/full/2206956/youngkin-pressed-lgbtq-school-policies.jpg",
+        "publishedAt": "2023-03-10T05:46:23Z",
+        "content": "Virginia Governor Glenn Youngkin faced questions about his state's LGBT guidelines for public education from a transgender student from Arlington during a CNN town hall Thursday.\r\nAccording to Virgin… [+4792 chars]"
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Foreign Affairs Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/foreign-affairs/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:28.1816944Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Bradford Betz",
+        "title": "DOJ indicts missing man who claims to have provided FBI with info on Biden family’s China business dealings",
+        "description": "Gal Luft, who claims to have provided the FBI and DOJ with information on the Biden family's business dealings in China, has been charged with failing to register as a foreign agent.",
+        "url": "https://www.foxnews.com/politics/doj-indicts-missing-man-claims-have-provided-fbi-info-biden-familys-china-business-dealings",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/Justice.jpg",
+        "publishedAt": "2023-07-10T23:57:20Z",
+        "content": "A fugitive who claimed to have provided the FBI with information on the Biden familys business dealings in China is facing decades behind bars for alleged arms trafficking and other charges involving… [+2335 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "Sky News Australia",
+        "title": "Chinese social media app refuses to front foreign interference probe - Sky News Australia",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi2AFodHRwczovL3d3dy5za3luZXdzLmNvbS5hdS9hdXN0cmFsaWEtbmV3cy9wb2xpdGljcy9jb250ZW1wdC1wb3B1bGFyLWNoaW5lc2Utc29jaWFsLW1lZGlhLXBsYXRmb3JtLXdlY2hhdC1yZWZ1c2VzLXRvLWZyb250LWZvcmVpZ24taW50ZXJmZXJlbmNlLXByb2JlLWFmdGVyLXJlcGVhdGVkLXJlcXVlc3RzL25ld3Mtc3RvcnkvNWFhNDg1NGRmN2Q2NjhhNWZhNjNmNmM1ZDZkYjgzZTfSAdwBaHR0cHM6Ly93d3cuc2t5bmV3cy5jb20uYXUvYXVzdHJhbGlhLW5ld3MvcG9saXRpY3MvY29udGVtcHQtcG9wdWxhci1jaGluZXNlLXNvY2lhbC1tZWRpYS1wbGF0Zm9ybS13ZWNoYXQtcmVmdXNlcy10by1mcm9udC1mb3JlaWduLWludGVyZmVyZW5jZS1wcm9iZS1hZnRlci1yZXBlYXRlZC1yZXF1ZXN0cy9uZXdzLXN0b3J5LzVhYTQ4NTRkZjdkNjY4YTVmYTYzZjZjNWQ2ZGI4M2U3P2FtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-07-11T03:37:11+00:00",
+        "content": null
+      }
+    ]
+  }

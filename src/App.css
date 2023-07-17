@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.social-icon {
+  margin: 7px;
+}
+
+#footer {
+  padding: 4% 15%;
+  text-align: center;
+}
+.footer-decoration{
+   background-color: #4747fa;
+   color : white;
+}
